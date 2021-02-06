@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://uksla.github.io/hugotestpublic/"
+baseURL = "https://uksla.github.io/hugotest/"
 # theme
 theme = "dot"
 # themesDir = "../.."
