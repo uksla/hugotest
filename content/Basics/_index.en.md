@@ -19,4 +19,4 @@ In this section you will learn all the basic operations that you can do with obj
 
 ![Editor](editor.gif "")
 
- ## OK 
+ ## OK  
