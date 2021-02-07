@@ -18,23 +18,8 @@
       <div class="col-lg-9">
         <div class="p-lg-5 p-4 bg-white">
           <h2 class="mb-5">{{ .Title }}</h2>
-            
-            
-            
-            
-            
-            
-            
           {{ if .Content }}
-          <div class="article-nav" id="article-nav-id">
-    <article class="overlay-top">
-        {{ .Content }}
-    </article>
-    <nav class="hide-on-mobile section-nav">
-        <h3 class="ml-1">Table of contents</h3>
-        {{ .TableOfContents }}
-    </nav>
-</div>
+          <div class="content">{{.Content}}</div>
           {{ else }}
           <div class="bg-light p-4">
             <ul class="page-list">
