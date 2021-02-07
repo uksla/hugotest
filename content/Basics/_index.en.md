@@ -15,8 +15,10 @@ Using Vector Editor is as easy as one, two, three:
 2. Arrange the scene as needed.
 3. Export your resulting masterpiece to PNG or SVG.
 
+
 In this section you will learn all the basic operations that you can do with objects on the stage.
 
-![Editor](editor.gif "")
+{{< figure src="editor.gif" alt="dwarf" width="640px" >}}
+
 
  ## OK!

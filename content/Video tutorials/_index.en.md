@@ -9,14 +9,14 @@ weight: 7
 
 Check out our videos for how-tos, hints and inspiration
 
-#### Working in Vector Creator. Part I
+### Working in Vector Creator. Part I
 
 {{< youtube XBCH7uUAXiw >}}
 
 
 <hr>
 
-#### Working in Vector Creator. Part II
+### Working in Vector Creator. Part II
 
 {{< youtube LAC7oQEbr3o >}}
 
