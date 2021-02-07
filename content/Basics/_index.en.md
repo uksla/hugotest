@@ -18,6 +18,8 @@ Using Vector Editor is as easy as one, two, three:
 
 In this section you will learn all the basic operations that you can do with objects on the stage.
 
+![image](editor.gif)
+
 {{< figure src="editor.gif" alt="dwarf" width="640px" >}}
 
 
