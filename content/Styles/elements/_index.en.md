@@ -187,6 +187,8 @@ Markdown | Less | Pretty
 
 ![image](img-1.jpg)
 
+![image](gorilla.png)
+
 {{< figure src="gorilla.png" alt="dwarf" width="640px" >}}
 
 
