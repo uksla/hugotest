@@ -11,12 +11,12 @@ Vector Creator is a web-based app that allows even non-designers to produce prof
 
 The key features of Vector Creator include:
 
-* [30+ unique styles]({{< ref "/styles" >}})
-* [100+ templates]({{< ref "/templates" >}})
-* [Easy-to-use]({{< ref "/working-in-vc" >}})
-* [Customizable characters]({{< ref "/custom-characters" >}})
-* [Instant sharing to social media]({{< ref "/export" >}})
-* [Export to the PNG and SVG formats]({{< ref "/export" >}})
+* [30+ unique styles] ({{< ref "/styles" >}})
+* [100+ templates] ({{< ref "/templates" >}})
+* [Easy-to-use] ({{< ref "/working-in-vc" >}})
+* [Customizable characters] ({{< ref "/custom-characters" >}})
+* [Instant sharing to social media] ({{< ref "/export" >}})
+* [Export to the PNG and SVG formats] ({{< ref "/export" >}})
 * [Free for a link](https://icons8.com/license)
 
  ![](/images/genview.png)

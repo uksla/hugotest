@@ -13,18 +13,18 @@ Working in Vector Creator is intuitive. You just find the required objects in th
 
 ![image](/images/buttonsmenu.png)
 
-1. [Crop]({{< ref "/cropping" >}})
-2. [Re-color]({{< ref "/recolor" >}})
-3. [Flip]({{< ref "/manipulating-objects" >}})
-4. [Duplicate]({{< ref "/group-duplicate-delete" >}})
-5. [Move layer up/down]({{< ref "/manipulating-objects" >}})
-6. [Delete]({{< ref "/group-duplicate-delete" >}})
-7. [Group]({{< ref "/group-duplicate-delete" >}}) (appears only when you select multiple objects)
-8. [Ungroup]({{< ref "/group-duplicate-delete" >}}) (appears only when you select a group)
+1. [Crop] ({{< ref "/cropping" >}})
+2. [Re-color] ({{< ref "/recolor" >}})
+3. [Flip] ({{< ref "/manipulating-objects" >}})
+4. [Duplicate] ({{< ref "/group-duplicate-delete" >}})
+5. [Move layer up/down] ({{< ref "/manipulating-objects" >}})
+6. [Delete] ({{< ref "/group-duplicate-delete" >}})
+7. [Group] ({{< ref "/group-duplicate-delete" >}}) (appears only when you select multiple objects)
+8. [Ungroup] ({{< ref "/group-duplicate-delete" >}}) (appears only when you select a group)
 
 Moreover, Vector Creator enables you to: 
 
-* [Add text]({{< ref "/adding-text" >}}) to your illustrations.
-* [Upload your own photos or SVGs]({{< ref "/upload" >}}) and mix them up with the elements from the library.
+* [Add text] ({{< ref "/adding-text" >}}) to your illustrations.
+* [Upload your own photos or SVGs] ({{< ref "/upload" >}}) and mix them up with the elements from the library.
 
 In the next subsections, you'll find how-tos and demos for all the basic operations in Vector Creator.
