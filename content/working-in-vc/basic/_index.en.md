@@ -13,7 +13,7 @@ Working in Vector Creator is intuitive. You just find the required objects in th
 
 ![image](/images/buttonsmenu.png)
 
-1. [Crop]
+1. [Crop]({{< relref "cropping" >}})
 2. [Re-color]
 3. [Flip]
 4. [Duplicate]
