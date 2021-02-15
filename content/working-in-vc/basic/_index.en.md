@@ -22,7 +22,7 @@ Working in Vector Creator is intuitive. You just find the required objects in th
 7. [Group]({{< ref "/group-duplicate-delete" >}}) (appears only when you select multiple objects)
 8. [Ungroup]({{< ref "/group-duplicate-delete" >}}) (appears only when you select a group)
 
-Moreover, Vector Creator enables you to:
+Moreover, Vector Creator enables you to: 
 
 * [Add text]({{< ref "/adding-text" >}}) to your illustrations.
 * [Upload your own photos or SVGs]({{< ref "/upload" >}}) and mix them up with the elements from the library.
