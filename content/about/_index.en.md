@@ -2,7 +2,7 @@
 title: "About Vector Creator"
 date: 2018-12-28T11:02:05+06:00
 icon: "ti-package"
-description: "Learn the basics of Vector Creator"
+description: "Basics information about Vector Creator"
 type : "docs"
 weight : 1
 ---
