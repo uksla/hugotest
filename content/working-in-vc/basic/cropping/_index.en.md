@@ -14,14 +14,15 @@ Sometimes you might need to cut out a part of an object.
 To crop an object:
 
 1. Select the object.
-2. Click the crop button to the right of the bounding box. The crop frame appears.
+2. Click the **Crop** button to the right of the bounding box. The crop frame appears.
 3. Drag the frame as you need.
-4. Click the **Apply cropping** button to the right of the bounding box.
+4. Click the **Apply cropping** button.
 
-To undo cropping:
+You can undo cropping at any time. For this:
 
 1. Select a cropped object.
-2. Click the **Undo cropping** button to the right of the bounding box.
+2. Click the **Crop** button to the right of the bounding box.
+3. Click the **Undo cropping** button. 
 
 {{< rawhtml >}}
 <video controls="controls" muted="" loop="" playsinline="" width="100%" poster="/images/vc-cropposter.png" height="auto"><source src="/images/vc-crop.mp4" type="video/mp4"></video>
