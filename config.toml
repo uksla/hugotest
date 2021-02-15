@@ -5,7 +5,7 @@ baseURL = "https://uksla.github.io/"
 theme = "dot"
 # themesDir = "../.."
 # site title
-title = "Vector Creator"
+title = "VECTOR CREATOR"
 # disable language
 disableLanguages = true
 # google analytics
@@ -60,7 +60,8 @@ link = "#"
 languageName = "En"
 languageCode = "en-us"
 weight = 1
-copyright = "Copyright © 2020 a Hugo theme by [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright © 2021 [Icons8](https://icons8.com/), theme by [Gethugothemes](https://gethugothemes.com/)"
+
 
 # banner
 [Languages.en.params.banner]

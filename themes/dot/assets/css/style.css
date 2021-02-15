@@ -931,3 +931,6 @@ pre code::-webkit-scrollbar-thumb {
   transition: all 50ms ease-in-out; 
 }
 
+html, body {
+    scroll-padding-top: 65px;
+}
