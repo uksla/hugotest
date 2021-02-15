@@ -15,8 +15,8 @@ The key features of Vector Creator include:
 * [100+ templates]({{< relref "/working-in-vc/templates" >}})
 * [Easy-to-use]({{< relref "working-in-vc" >}})
 * [Customizable characters]({{< relref "custom-characters" >}})
-* [Instant sharing to social media]({{< relref "/working-in-vc/export/" >}})
-* [Export to the PNG and SVG formats]({{< relref "/working-in-vc/export/" >}})
+* [Instant sharing to social media]({{< relref "/working-in-vc/export" >}})
+* [Export to the PNG and SVG formats]({{< relref "/working-in-vc/export" >}})
 * [Free for a link](https://icons8.com/license)
 
  ![](/images/genview.png)
