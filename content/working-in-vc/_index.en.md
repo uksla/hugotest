@@ -14,7 +14,5 @@ Using Vector Editor is as easy as one-two-three:
 2. Arrange the scene as needed.
 3. Export your resulting masterpiece to PNG or SVG.
 
-In the next subsections you will find everything you need to work in Vector Creator.
-
 ![image](/images/editor.gif)
 
