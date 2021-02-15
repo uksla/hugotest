@@ -17,7 +17,6 @@ For this:
 3. Click over the template you like.
 4. Edit the template as needed.
 
-[](/images/templates.png)
 
 {{< rawhtml >}}
 <video controls="controls" muted="" loop="" playsinline="" width="100%" poster="/images/templates-poster.png" height="auto"><source src="/images/vc-templates.mp4" type="video/mp4"></video>
